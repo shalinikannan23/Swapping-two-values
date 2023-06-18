@@ -30,9 +30,7 @@ n2=t
 print("Swapped values are:",n1,n2)
 ```
 ## OUTPUT:
-![OUTPUT](./images/py1.png)
-![OUTPUT](./images/py2.png)
-
+![image](https://github.com/shalinikannan23/Swapping-two-values/assets/118656529/458e0e04-45ce-49e1-b490-8946d132926a)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
